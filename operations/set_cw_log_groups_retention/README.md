@@ -1,0 +1,1 @@
+An inline Lambda that can be used to set the retention period across Cloudwatch log groups as a cost saving exercise
