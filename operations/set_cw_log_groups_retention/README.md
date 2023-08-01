@@ -1,6 +1,5 @@
-# Set the retention period across Cloudwatch log groups as a cost saving exercise
+# Set the retention period across Cloudwatch log groups with BOT0 3 as a cost saving exercise
 
-## Setting the retention period period for existing log groups using Python Boto
 
 If you have multiple log groups across multiple accounts and regions, automation can help to maintain a common configuration for  your log groups.
 
