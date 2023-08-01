@@ -152,7 +152,7 @@ Resources:
       - Arn: !GetAtt LogGroupRetentionFunction.Arn
         Id: "TargetFunctionV1"
 
-  PermissionForEventsToInvokeConfluenceLambda: 
+  PermissionForEventsToInvokeLambda: 
     Type: AWS::Lambda::Permission
     Properties: 
       FunctionName: !Ref FunctionName
